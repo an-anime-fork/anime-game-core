@@ -18,11 +18,11 @@ Unified library to control different games installations. Provides basic instrum
 
 | Name                                                                                 | Feature                   |
 |--------------------------------------------------------------------------------------|---------------------------|
-| [An Anime Game](https://github.com/an-anime-team/an-anime-game-launcher)             | `gen-shin` (without dash) |
-| [The Honkers Railway](https://github.com/an-anime-team/the-honkers-railway-launcher) | `star-rail`               |
-| [Sleepy](https://github.com/an-anime-team/sleepy-launcher)                           | `zzz`                     |
-| [Honkers](https://github.com/an-anime-team/honkers-launcher)                         | `hon-kai` (without dash)  |
-| [An Anime Borb](https://github.com/an-anime-team/an-anime-borb-launcher)             | `pgr`                     |
-| [Waves](https://github.com/an-anime-team/wavey-launcher)                             | `wuwa`                    |
+| [An Anime Game](https://github.com/an-anime-fork/an-anime-game-launcher)             | `gen-shin` (without dash) |
+| [The Honkers Railway](https://github.com/an-anime-fork/the-honkers-railway-launcher) | `star-rail`               |
+| [Sleepy](https://github.com/an-anime-fork/sleepy-launcher)                           | `zzz`                     |
+| [Honkers](https://github.com/an-anime-fork/honkers-launcher)                         | `hon-kai` (without dash)  |
+| [An Anime Borb](https://github.com/an-anime-fork/an-anime-borb-launcher)             | `pgr`                     |
+| [Waves](https://github.com/an-anime-fork/wavey-launcher)                             | `wuwa`                    |
 
 ⚠️ This library does not bind 7z archives format support, and would require `7z` binary available in user's system. This format may be used in games like honkers
