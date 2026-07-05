@@ -54,6 +54,7 @@ star-rail = []
 zzz = []
 honkai = []
 pgr = []
+piston = ["dep:flate2", "dep:brotli-decompressor"]
 wuwa = ["dep:flate2", "dep:brotli-decompressor"]
 sophon = ["dep:md-5", "dep:zstd", "dep:reqwest", "dep:protobuf", "dep:protobuf-codegen"]
 

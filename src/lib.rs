@@ -41,6 +41,9 @@ pub use games::pgr;
 #[cfg(feature = "wuwa")]
 pub use games::wuwa;
 
+#[cfg(feature = "piston")]
+pub use games::steamgame;
+
 // Core functionality
 
 #[cfg(feature = "external")]
@@ -82,6 +85,9 @@ pub mod prelude {
 
     #[cfg(feature = "wuwa")]
     pub use super::wuwa::prelude as wuwa;
+
+    #[cfg(feature = "piston")]
+    pub use super::steamgame::prelude as steamgame;
 
     #[cfg(feature = "install")]
     pub use super::installer::prelude::*;

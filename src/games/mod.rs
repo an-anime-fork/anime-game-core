@@ -15,3 +15,6 @@ pub mod pgr;
 
 #[cfg(feature = "wuwa")]
 pub mod wuwa;
+
+#[cfg(feature = "piston")]
+pub mod steamgame;
